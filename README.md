@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sjp1123
-- 👀 I’m interested in Python
+- 👀 I’m interested in Python, C++
 - 🌱 I’m currently learning Python, Unity
 - 💞️ I’m looking to collaborate on Unitylike
 - 📫 How to reach me no
